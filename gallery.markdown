@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Gallery
 permalink: /gallery/
 ---
 
-test
+[Lash extensions](https://timma.fi/yritys/enchante-beauty)
