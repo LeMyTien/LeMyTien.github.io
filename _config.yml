@@ -28,6 +28,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tien.fi/" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: lemytien
 instagram_username: shoes_of_mermaid
+facebook_username: rschipmunk
 
 # Build settings
 theme: minima
