@@ -3,4 +3,4 @@ layout: page
 permalink: /booking/
 ---
 
-[Lash extensions](https://timma.fi/yritys/enchante-beauty)
+[Lash extensions Helsinki](https://timma.fi/yritys/enchante-beauty)
