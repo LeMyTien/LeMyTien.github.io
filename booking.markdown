@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /gallery/
+permalink: /booking/
 ---
 
 [Lash extensions](https://timma.fi/yritys/enchante-beauty)
