@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bookings
+title: Lashes
 permalink: /lashes/
 ---
 
